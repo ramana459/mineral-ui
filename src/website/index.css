@@ -6,3 +6,7 @@ body {
 main {
   display: block;
 }
+
+* {
+  box-sizing: border-box;
+}

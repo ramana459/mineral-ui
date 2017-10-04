@@ -8,6 +8,8 @@ Mineral UI is built on a design system with styles ready to go out of the box.  
 
 Theming is a core concept in Mineral UI.  It is powerful feature capable of providing style customizations from the application level to the component level and should generally be your first choice when looking to make style customizations. See the [theming page](/theming) for more details.
 
+<Button primary element='a' href='/palette-demo/'>Mineral UI Palette Demo</Button>
+
 ### createStyledComponent
 
 This function is used to create a new styled component based on another component or DOM element.
